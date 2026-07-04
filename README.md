@@ -1,4 +1,4 @@
-# ⚡ CascadeFlow AI — AI Incident Commander
+# ⚡ Incident AI — AI Incident Commander
 
 **Autonomous, Sub-Second Neural Triage for Enterprise Site Reliability Engineering**  
 *Built by **Harshini Shree**, Lead Incident Commander & Product Architect*
